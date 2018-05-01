@@ -9,7 +9,7 @@ namespace hex_parser
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             string line;
             string[] hexes;
